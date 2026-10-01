@@ -1,0 +1,13 @@
+/* Собственные стили для лабораторной */
+.header {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+.navbar .nav-link {
+    transition: all 0.3s;
+}
+.navbar .nav-link:hover {
+    color: #ffc107 !important;
+}
+.footer {
+    margin-top: 50px;
+}
